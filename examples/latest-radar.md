@@ -1,10 +1,10 @@
 # RustChain Bounty Radar for `Scottcjn/rustchain-bounties`
 
-Generated: `2026-06-11T02:59:44+00:00`
+Generated: `2026-06-11T03:01:58+00:00`
 
 | Rank | Issue | Reward | Score | Signals |
 | ---: | --- | ---: | ---: | --- |
-| 1 | [#71 [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (200 RTC Pool)](https://github.com/Scottcjn/rustchain-bounties/issues/71) | 750 RTC | 7500 | explicitly open/ongoing, crowded thread |
+| 1 | [#71 [BOUNTY] Ongoing Bug Bounty Program — Find Bugs, Earn RTC (200 RTC Pool)](https://github.com/Scottcjn/rustchain-bounties/issues/71) | 200 RTC | 2000 | explicitly open/ongoing, crowded thread |
 | 2 | [#2819 [BOUNTY] Red Team UTXO Implementation — Find Bugs, Earn RTC (50-200 RTC)](https://github.com/Scottcjn/rustchain-bounties/issues/2819) | 50-200 RTC | 2000 | reward detected |
 | 3 | [#3418 [BOUNTY] Register on Beacon Atlas + Prove Commerce (Pool: 150 RTC)](https://github.com/Scottcjn/rustchain-bounties/issues/3418) | 150 RTC | 1515 | easy/onboarding label, low-friction community task, external account or social proof needed |
 | 4 | [#3078 [MINER-BOUNTY: 40-150 RTC] First miner from a brand-new architecture family](https://github.com/Scottcjn/rustchain-bounties/issues/3078) | 40-150 RTC | 1504 | less crowded thread |

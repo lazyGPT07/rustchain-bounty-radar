@@ -114,7 +114,11 @@ def issue_to_bounty(issue: dict[str, Any]) -> Bounty | None:
         return None
     title = issue.get("title") or ""
     body = issue.get("body") or ""
-    reward, max_reward = parse_reward(f"{title}\n{body}")
+    title_reward, title_max_reward = parse_reward(title)
+    if title_max_reward > 0:
+        reward, max_reward = title_reward, title_max_reward
+    else:
+        reward, max_reward = parse_reward(body)
     if max_reward <= 0:
         return None
     score, signals = score_issue(issue, reward, max_reward)
